@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umut</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Web Developer</h3>
 
-- 🔭 I’m currently working on [trivia-game](https://github.com/umutondersu/trivia-game)
+- 🔭 I’m currently working on [chatzie](https://github.com/umutondersu/chatzie)
 
 - 📫 How to reach me **umutsonder@gmail.com**
 
