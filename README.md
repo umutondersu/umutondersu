@@ -7,8 +7,6 @@
 
 - 📄 Know about my experiences [https://shorturl.at/fvLSU](https://shorturl.at/fvLSU)
 
-- ⚡ Fun fact **Jotai is a pretty good state management tool for react**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/umut-onder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umut-onder" height="30" width="40" /></a>
