@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **umutsonder@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/fvLSU](https://shorturl.at/fvLSU)
+- 📄 Know about my experiences [https://shorturl.at/lrV08](https://shorturl.at/lrV08)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
