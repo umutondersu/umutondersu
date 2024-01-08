@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umut</h1>
 <h3 align="center">A passionate Developer</h3>
 
-- 🔭 I’m currently working on [chatzie](https://github.com/umutondersu/chatzie)
-
 - 📫 How to reach me **umutsonder@gmail.com**
 
 - 📄 Know about my experiences [https://shorturl.at/lrV08](https://shorturl.at/lrV08)
