@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Full Stack developer located in Spain</h3>
 
 ## 🌐 How to reach me:
-[![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-black)](https://umutsonder.com) 
+[![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-black)](https://umutsonder.com)
+[![Mail](https://img.shields.io/badge/Mail-red)](mailto:umutsonder@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umut-onder)
 
 # 💻 Tech Stack:
